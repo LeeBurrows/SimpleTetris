@@ -2,7 +2,7 @@
 
 Simple Tetris clone
 
-##
+## Info
 
 Implements wall kicks based on definitions at [Tetris Wiki](https://tetris.wiki/SRS)
 
